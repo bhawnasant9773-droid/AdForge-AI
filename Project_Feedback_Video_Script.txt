@@ -1,0 +1,30 @@
+PROJECT FEEDBACK VIDEO SCRIPT
+Duration: approximately 3–4 minutes
+
+Hello everyone, my name is Bhawna Sant and I am an MBA Digital Marketing student.
+
+My capstone project is titled “E-Learning Website Auditing and Digital Marketing Implementation: A Case Study of Coursera.”
+
+The main objective of my project was to audit an e-learning website and develop a complete digital marketing and website optimization strategy.
+
+First, I studied the website from a user-experience and digital marketing perspective. I looked at navigation, course discovery, calls-to-action, content structure, SEO opportunities and the overall conversion journey.
+
+I then proposed a redesigned journey where a learner can start with a career goal, receive a relevant learning path, explore a course, understand its benefits, review trust information and then move toward enrollment.
+
+For the practical implementation, I created a demonstration website called LearnPro. It includes a responsive homepage, career goals, course cards, a learning hub, clear calls-to-action and an interactive enrollment demonstration.
+
+The next part of the project was SEO. I developed primary and long-tail keyword themes around online courses, digital marketing, data analytics, AI and professional certificates. I also prepared recommendations for on-page SEO, technical SEO, internal linking and off-page SEO.
+
+For content marketing, I created four content pillars: career growth, digital skills, learning advice and industry trends. I also prepared a 30-day content calendar.
+
+For social media, I planned different strategies for Instagram, LinkedIn, YouTube and Facebook.
+
+For paid advertising, I proposed a 30-day test budget of seventy thousand rupees across Google Search Ads, Meta Ads, YouTube and remarketing. This is a project proposal and not Coursera's actual advertising budget.
+
+Finally, I developed an analytics and KPI framework using Google Analytics 4 and Google Search Console. The main KPIs include organic traffic, impressions, CTR, engagement, course-page visits, conversion rate and advertising performance.
+
+Through this project, I learned how different digital marketing activities work together. I also improved my practical understanding of website UX, SEO, content marketing, social media, paid advertising and analytics.
+
+The biggest learning from this project is that digital marketing is not only about attracting traffic. The complete journey is to attract the right audience, help users find the right information, build trust, encourage conversion and then measure the results.
+
+Thank you for watching my project feedback video.
